@@ -1,0 +1,2 @@
+# Kodelmelet
+ShannonFanoCoding
